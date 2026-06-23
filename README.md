@@ -1,1 +1,1 @@
-# snap-class-landing-page
+# ai-attendance-project-landing
